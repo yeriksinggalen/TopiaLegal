@@ -1,15 +1,21 @@
 # TOPIA Legal Documents
 
-This repository contains the official legal documents for TOPIA (Tourism Platform Intelligence Assistant).
+This repository provides public legal documents for TOPIA (Tourism Platform Intelligence Assistant).
 
 ## Documents
 
-- Privacy Policy
-- Terms and Conditions
-- Data Deletion Policy
+- [Privacy Policy](privacy-policy.html)
+- [Terms and Conditions](terms-and-conditions.html)
+- [Data Deletion Policy](data-deletion-policy.html)
 
-These documents govern the use of TOPIA services, user accounts, profile management, and data protection practices.
+## About TOPIA
+
+TOPIA is a tourism intelligence application designed to support destination services, local tourism providers, tourism research, profile management, and tourism decision-support workflows.
+
+## Public Access
+
+These documents are intended for public access and may be used for application compliance, app store review, and user transparency.
 
 ## Contact
 
-For legal inquiries regarding TOPIA, please contact the project administrator through the official support channel provided within the application.
+For legal or privacy-related inquiries, please use the official support channel provided by the TOPIA application owner.
